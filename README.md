@@ -1,6 +1,6 @@
-# newsletter-landing
+# About
 
-This landing page was designed with React and Vite. When users visit the page, they have the ability to sign-up (subscribe) for a Yoga with K newsletter. The subscription service is managed through Revue.
+This landing page was designed with React and Vite. When users visit the page, they have the ability to sign-up (subscribe) for a Yoga with K newsletter. The subscription service is managed through [Revue](https://www.getrevue.co).
 
 # Homepage Screenshot
 
