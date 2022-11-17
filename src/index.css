@@ -1,0 +1,11 @@
+/* importing TailwindCSS in the proj */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url('./yoga-cover.jpg');
+  background-size: cover;
+  background-position: top center;
+}
