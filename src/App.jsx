@@ -1,5 +1,3 @@
-import EmojiPicker from "emoji-picker-react";
-
 function App() {
   return (
     <div className="min-h-screen flex flex-col text-white">
